@@ -1,9 +1,14 @@
 # Life Web Link
 
-- Rebranding ID: 66ab3eb6d4fb7fd468c00161
-- User ID: 67bd6fc2e390b19b1e73740a
-- App name: Life Web Link
-- Product name: Button Sender
+Life Web Link by Life Web Link.
 
-App logo: https://api.digibulkmarketing.com/media/rebranding/life-web-link/logo.png
-![App Logo](https://api.digibulkmarketing.com/media/rebranding/life-web-link/logo.png)
+## Installation
+
+### Windows
+1. Download the latest **`.exe`** installer from the [Releases page](https://github.com/digi-bulk-marketing/life-web-link/releases/latest).
+2. Run the installer and follow the prompts.
+3. Launch **Life Web Link** from the Start menu.
+
+## Updates
+
+Download the newest installer from the [Releases page](https://github.com/digi-bulk-marketing/life-web-link/releases/latest) and reinstall.
